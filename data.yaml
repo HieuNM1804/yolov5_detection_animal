@@ -1,4 +1,22 @@
 train: "C:/Users/Admin/OneDrive/Desktop/DL/yolov5/dataset/images/train"
 val: "C:/Users/Admin/OneDrive/Desktop/DL/yolov5/dataset/images/val"
 nc: 16
-names: ['Tiger', 'Elephant', 'Horse', 'Leopard', 'Camel', 'Crocodile', 'Cat', 'Dog', 'Monkey', 'Lion', 'Deer', 'Frog', 'Chicken', 'Cattle', 'Squirrel', 'Snail']
+names:
+  [
+    "Tiger",
+    "Elephant",
+    "Horse",
+    "Leopard",
+    "Camel",
+    "Crocodile",
+    "Cat",
+    "Dog",
+    "Monkey",
+    "Lion",
+    "Deer",
+    "Frog",
+    "Chicken",
+    "Cattle",
+    "Squirrel",
+    "Snail",
+  ]
